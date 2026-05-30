@@ -227,6 +227,9 @@
           ".utterances", // Utterances 评论系统类
           "#waline", // Waline 评论系统
           ".waline", // Waline 评论系统类
+          "#comentario-comments", // Comentario 评论系统
+          ".comentario-container", // Comentario 评论系统类
+          "comentario-comments", // Comentario 自定义元素
           "[data-comments]", // 带有 data-comments 属性的元素
           ".comment-section", // 评论区域类
           ".post-comments", // 文章评论类

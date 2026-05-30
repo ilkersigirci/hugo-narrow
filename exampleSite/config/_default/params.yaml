@@ -122,7 +122,7 @@ post:
 # Comments
 comments:
   enabled: false
-  # giscus, disqus, utterances, waline, artalk, twikoo
+  # giscus, disqus, utterances, waline, artalk, twikoo, comentario
   system: "giscus"
   giscus:
     repo: "tom2almighty/hugo-narrow-giscus"
@@ -158,6 +158,17 @@ comments:
     region: "ap-shanghai"
     path: ""
     lang: "zh-CN"
+  comentario:
+    server: ""
+    lang: "zh-CN"
+    theme: "" # light, dark, or empty to follow browser preference
+    domainId: ""
+    cssOverride: ""
+    liveUpdate: true
+    maxLevel: 10
+    noFonts: false
+    autoInit: true
+    autoNonInteractiveSso: false
 
 # Analytics
 analytics:

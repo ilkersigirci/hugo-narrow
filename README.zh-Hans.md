@@ -2,32 +2,32 @@
 
 # Hugo Narrow
 
-A Modern Hugo Theme with Multiple Color Schemes - Built on TailwindCSS 4.
+一个基于 TailwindCSS 4 构建、支持多种配色方案的现代 Hugo 主题。
 
-**[Documentation](https://tom2almighty.github.io/hugo-narrow-docs)** · **[Demo](https://tom2almighty.github.io/hugo-narrow)** · **[中文](README.zh-Hans.md)**
+**[文档](https://tom2almighty.github.io/hugo-narrow-docs)** · **[演示](https://tom2almighty.github.io/hugo-narrow/zh-hans/)** · **[English](README.md)**
 
-## ✨ Features
+## ✨ 特性
 
-- Multiple Color Schemes
-- Custom Colors
-- Dark Mode
-- Table of Contents
-- Search Functionality
-- Comment Systems
-- Analytics Systems
-- Enhanced Markdown
-- Enhanced Code Blocks
-- Multilingual Support
-- Katex Support
-- Mermaid Support
-- Lightbox
-- Justified/Masonry/Grid Gallery with markdown
+- 多种配色方案
+- 自定义颜色
+- 深色模式
+- 目录
+- 搜索功能
+- 评论系统
+- 分析统计
+- 增强的 Markdown
+- 增强的代码块
+- 多语言支持
+- KaTeX 支持
+- Mermaid 支持
+- 灯箱
+- 多种布局 (Justified / Masonry / Grid) 图库
 
-## 📄 License
+## 📄 许可证
 
-This project is open source under the [MIT License](LICENSE).
+本项目基于 [MIT 许可证](LICENSE) 开源。
 
-## 🙏 Acknowledgments
+## 🙏 致谢
 
 - [Hugo](https://gohugo.io/)
 - [Tailwind CSS](https://tailwindcss.com/)
@@ -43,6 +43,6 @@ This project is open source under the [MIT License](LICENSE).
 
 ---
 
-## ⭐ Star History
+## ⭐ Star 历史
 
 [![Star History Chart](https://api.star-history.com/image?repos=tom2almighty/hugo-narrow&type=timeline&legend=top-left)](https://www.star-history.com/?repos=tom2almighty%2Fhugo-narrow&type=timeline&legend=top-left)

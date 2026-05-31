@@ -17,12 +17,13 @@ concurrency:
   group: github-pages
   cancel-in-progress: false
 
+env:
+  HUGO_VERSION: ${{ vars.HUGO_VERSION }}
+
 jobs:
   build:
     if: github.event_name == 'workflow_dispatch' || github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
-    env:
-      HUGO_VERSION: "0.158.0"
     steps:
       - name: Checkout
         uses: actions/checkout@v4
